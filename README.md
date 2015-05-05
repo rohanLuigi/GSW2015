@@ -23,3 +23,12 @@ by USDA-NIFA grant # 2011-38411-30551
 * Graduate-level course in quantitative genetics.
 * Graduate-level course in statistics.
 * Basic understanding of molecular genetics, QTL mapping, linkage, and linkage disequilibrium.
+
+###Materials:
+#### Notes:
+
+* Day 1:
+
+[Overview](notes/overview.pdf)
+
+* Day 2: 
